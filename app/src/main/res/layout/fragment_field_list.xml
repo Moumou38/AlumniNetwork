@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1d181f"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".field_list$PlaceholderFragment">
+
+    <ImageView
+        android:src="@drawable/imac_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="5"/>
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:text="Audiovisual"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/audiovisual_button"
+        style="@style/btnStyleHaiti"/>
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:text="3D Programming"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/programming_button"
+        style="@style/btnStyleHaiti"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:text="Web"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/web_button"
+        style="@style/btnStyleHaiti"/>
+
+</LinearLayout>

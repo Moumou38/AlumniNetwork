@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlumniNetwork</string>
+    <string name="error">AlumniNetwork</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_error">An network error has occurred.\nPlease refresh the screen.</string>
+    <string name="update_data">Update data</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_alumnus">Alumnus</string>
+    <string name="title_activity_company_list">%s Companies</string>
+    <string name="title_activity_alumnus_list">%s Alumnus</string>
+    <string name="no_company">No company found</string>
+    <string name="no_alumni">No alumni found</string>
+    <string name="no_answer">N/A</string>
+
+</resources>

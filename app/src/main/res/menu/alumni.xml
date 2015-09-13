@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="imac.alumninetwork.AlumniActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        tools:showAsAction="never" />
+    <item android:id="@+id/updateData"
+        android:title="@string/update_data"
+        android:orderInCategory="200"
+        tools:showAsAction="never" />
+</menu>
